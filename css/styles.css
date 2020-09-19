@@ -10544,7 +10544,7 @@ section.resume-section {
 }
 div#foto {
   background-image: (
-    "https://github.com/ZhaniM/Resume/blob/master/assets/img/eva_stuff_insta.jpg?raw=true"
+    url("https://github.com/ZhaniM/Resume/blob/master/assets/img/eva_stuff_insta.jpg?raw=true")
   );
   background-repeat: no-repeat;
   background-size: 450px 250px;
